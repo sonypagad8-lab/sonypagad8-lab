@@ -67,22 +67,31 @@
 - 🌱 Currently learning Kubernetes, Terraform, AWS DevOps, CI/CD, and Monitoring.
 - 🎯 Open to Software Engineer, Java Developer, and DevOps Engineer opportunities.
 
-# 🚀 Currently Learning
+## 🚀 Currently Learning
 
-✔ Docker
+✔ Docker & Docker Compose
 
 ✔ Kubernetes
 
-✔ Jenkins
+✔ Jenkins CI/CD
 
-✔ AWS
+✔ AWS Cloud Services
 
 ✔ Terraform
 
 ✔ Ansible
 
----
+✔ GitHub Actions
 
+✔ Shell Scripting (Bash)
+
+✔ Prometheus & Grafana
+
+✔ Spring Security & JWT
+
+✔ Microservices
+
+✔ DevOps Best Practices
 # 📬 Reach Me
 
 <p align="center">
