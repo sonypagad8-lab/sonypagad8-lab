@@ -1,18 +1,37 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Sony%20Yallappa%20Pagad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<!-- Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sony+Yallappa+Pagad;💻+Java+Full+Stack+Developer;☁️+DevOps+Engineer;🚀+AWS+Cloud+Learner;🐳+Docker+|+Kubernetes+|+Jenkins;❤️+Welcome+to+My+GitHub+Profile"/>
-</p>
+<!-- ==================== Banner ==================== -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sonypagad8-lab&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/sonypagad8-lab?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/sonypagad8-lab?style=for-the-badge&logo=github"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Sony%20Yallappa%20Pagad&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+<!-- ==================== Typing ==================== -->
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=👋+Hello+I'm+Sony+Yallappa+Pagad;💼+Associate+Software+Engineer;💻+Java+Full+Stack+Developer;☁️+DevOps+Engineer;🚀+AWS+Cloud+Learner;🐳+Docker+%7C+Kubernetes+%7C+Jenkins;⚙️+CI/CD+Automation+Enthusiast"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sonypagad8-lab&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/sonypagad8-lab?style=for-the-badge&color=blue&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/sonypagad8-lab?style=for-the-badge&color=yellow&logo=github"/>
+
+</p>
+
 
 # 💫 About Me
 
