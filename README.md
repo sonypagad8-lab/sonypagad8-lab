@@ -56,17 +56,16 @@
 
 
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 **B.E. - Electronics & Communication Engineering**
-
-💻 Java Full Stack Developer
-
-☁️ DevOps & AWS Enthusiast
-
-🚀 Passionate about Backend Development & Cloud Computing
-
----
+- 🎓 B.E. in Electronics & Communication Engineering
+- 💼 Associate Software Engineer
+- ☕ Java Full Stack Developer
+- ☁️ DevOps & Cloud Enthusiast
+- 🚀 Passionate about building scalable web applications and automating deployments using modern DevOps practices.
+- 💻 Skilled in Java, Spring Boot, JDBC, Hibernate, SQL, HTML, CSS, JavaScript, Git, GitHub, Maven, Linux, Docker, Jenkins, Kubernetes, Terraform, Ansible, and AWS.
+- 🌱 Currently learning Kubernetes, Terraform, AWS DevOps, CI/CD, and Monitoring.
+- 🎯 Open to Software Engineer, Java Developer, and DevOps Engineer opportunities.
 
 # 🚀 Currently Learning
 
