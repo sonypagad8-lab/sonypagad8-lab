@@ -1,16 +1,32 @@
 <!-- ========================= HEADER ========================= -->
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:2C5364,100:00C9FF&text=Sony%20Yallappa%20Pagad&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=00C9FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sony+Yallappa+Pagad;💼+Associate+Software+Engineer;☕+Java+Full+Stack+Developer;☁️+DevOps+Engineer;🚀+AWS+%7C+Docker+%7C+Kubernetes;❤️+Open+to+Work"/>
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Sony%20Yallappa%20Pagad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
+<br>
 
-<a href="https://www.linkedin.com/in/sony-yallappa-pagad-b0a362384">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Associate+Software+Engineer;Java+Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+Enthusiast;Open+to+Work;Always+Learning+New+Technologies"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Associate%20Software%20Engineer-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java%20Full%20Stack-red?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Always%20Learning-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
+<br><br>
+
+<a href="https://linkedin.com/in/sony-yallappa-pagad-b0a362384">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,40 +42,17 @@
 <img src="https://img.shields.io/badge/My%20Projects-00C853?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=sonypagad8-lab&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/github/followers/sonypagad8-lab?style=for-the-badge&label=FOLLOWERS&color=blue"/>
+<img src="https://img.shields.io/github/followers/sonypagad8-lab?label=FOLLOWERS&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/sonypagad8-lab?style=for-the-badge&label=STARS&color=yellow"/>
+<img src="https://img.shields.io/github/stars/sonypagad8-lab?affiliations=OWNER&label=STARS&style=for-the-badge"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-
-</p>
+</div>
 
 ---
-
 
 
 
