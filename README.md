@@ -1,40 +1,61 @@
-<h1 align="center">Hi 👋, I'm Sony Yallappa Pagad</h1>
-
-<h3 align="center">Java Full Stack Developer | DevOps Engineer | AWS Cloud Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sony+Yallappa+Pagad;💻+Java+Full+Stack+Developer;☁️+DevOps+Engineer;🚀+AWS+Cloud+Learner;🐳+Docker+|+Kubernetes+|+Jenkins;🔥+Welcome+To+My+GitHub+Profile!" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+Learner;Spring+Boot+Developer;Docker+%7C+Kubernetes+%7C+Jenkins" />
+<img src="https://komarev.com/ghpvc/?username=sonypagad8-lab&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sonypagad8-lab?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/sonypagad8-lab?style=for-the-badge&color=yellow"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.E. in Electronics & Communication Engineering
-- 💻 Java Full Stack & DevOps Enthusiast
-- 🌱 Currently learning AWS, Docker, Kubernetes, Jenkins, Terraform & Ansible
-- 🚀 Interested in Cloud, DevOps and Backend Development
-- 📍 Belagavi, Karnataka, India
+🎓 **B.E. - Electronics & Communication Engineering**
+
+💻 **Java Full Stack Developer**
+
+☁️ **DevOps & Cloud Enthusiast**
+
+🚀 Passionate about building scalable applications.
+
+🌱 Currently Learning
+
+- Docker
+- Kubernetes
+- Jenkins
+- AWS
+- Terraform
+- Ansible
+
+📍 **Belagavi, Karnataka, India**
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,maven,linux,docker,kubernetes,jenkins,aws,terraform,vscode" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,maven,linux,docker,kubernetes,jenkins,aws,terraform,ansible,vscode,eclipse"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonypagad8-lab&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonypagad8-lab&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonypagad8-lab&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonypagad8-lab&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -44,49 +65,77 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛒 E-Commerce Application
-- 🏦 Bank Management System
-- 🎬 Movie Ticket Booking System
-- 🗳️ Online Voting System
-- ☁️ AWS EC2 + RDS Deployment
-- 🐳 Docker & Jenkins CI/CD Project
-
----
-
-## 📚 Currently Learning
-
-- ☁️ AWS Cloud
-- 🐳 Docker
-- ☸️ Kubernetes
-- ⚙️ Jenkins
-- 🌍 Terraform
-- 🤖 Ansible
-
----
-
-## 📈 Activity Graph
+# 📈 Contribution Graph
 
 [![Sony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonypagad8-lab&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 👀 Profile Views
+# 💻 Languages & Tools
 
-![](https://komarev.com/ghpvc/?username=sonypagad8-lab&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform"/>
+
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-<p align="left">
+⭐ **E-Commerce Application**
+
+⭐ **Movie Ticket Booking System**
+
+⭐ **Online Voting System**
+
+⭐ **Bank Management System**
+
+⭐ **AWS EC2 + RDS Deployment**
+
+⭐ **Docker + Jenkins CI/CD Pipeline**
+
+---
+
+# 📚 Currently Learning
+
+```text
+☁️ AWS Cloud
+🐳 Docker
+☸️ Kubernetes
+⚙️ Jenkins
+🌍 Terraform
+🤖 Ansible
+📈 Monitoring
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/sonypagad8-lab">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sony-yallappa-pagad-b0a362384/">
+<a href="https://www.linkedin.com/in/sony-yallappa-pagad-b0a362384">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -98,4 +147,10 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h2 align="center">
+
+✨ **"Code • Build • Deploy • Automate • Repeat"** ✨
+
+🚀 **Happy Coding!**
+
+</h2>
