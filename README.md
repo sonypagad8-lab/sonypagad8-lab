@@ -1,10 +1,22 @@
-<div align="center">
+<!-- ========================= HEADER ========================= -->
 
-# 👋 Hi, I'm Sony Yallappa Pagad
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4F8EF7;">Sony Yallappa Pagad</span>
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Associate+Software+Engineer;Java+Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+%7C+Docker+%7C+Kubernetes;Open+to+Work+🚀" alt="Typing SVG" />
+<h3 align="center">
+💼 Associate Software Engineer
+</h3>
 
-<p>
+<h3 align="center">
+☕ Java Full Stack Developer • ☁️ DevOps Engineer
+</h3>
+
+<h4 align="center">
+🚀 AWS • Docker • Kubernetes • Jenkins • Terraform • Linux
+</h4>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=sonypagad8-lab&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/sonypagad8-lab?label=Followers&style=for-the-badge&color=blue"/>
@@ -12,7 +24,8 @@
 <img src="https://img.shields.io/github/stars/sonypagad8-lab?affiliations=OWNER&style=for-the-badge&color=yellow"/>
 </p>
 
-</div>
+---
+
 
 
 
