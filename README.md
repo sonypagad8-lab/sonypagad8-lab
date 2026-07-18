@@ -1,36 +1,19 @@
-<!-- ==================== Banner ==================== -->
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Sony%20Yallappa%20Pagad&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+# 👋 Hi, I'm Sony Yallappa Pagad
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Associate+Software+Engineer;Java+Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+%7C+Docker+%7C+Kubernetes;Open+to+Work+🚀" alt="Typing SVG" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=sonypagad8-lab&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sonypagad8-lab?label=Followers&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/sonypagad8-lab?affiliations=OWNER&style=for-the-badge&color=yellow"/>
 </p>
 
-<!-- ==================== Typing ==================== -->
+</div>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=👋+Hello+I'm+Sony+Yallappa+Pagad;💼+Associate+Software+Engineer;💻+Java+Full+Stack+Developer;☁️+DevOps+Engineer;🚀+AWS+Cloud+Learner;🐳+Docker+%7C+Kubernetes+%7C+Jenkins;⚙️+CI/CD+Automation+Enthusiast"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sonypagad8-lab&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/sonypagad8-lab?style=for-the-badge&color=blue&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/sonypagad8-lab?style=for-the-badge&color=yellow&logo=github"/>
-
-</p>
 
 
 # 💫 About Me
