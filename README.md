@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Sony%20Yallappa%20Pagad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=240&color=gradient&customColorList=14,18,22,28&text=Sony%20Yallappa%20Pagad&fontSize=56&fontColor=ffffff"/>
 
 <br>
 
